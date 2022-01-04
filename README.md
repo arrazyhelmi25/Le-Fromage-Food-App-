@@ -7,8 +7,8 @@
 
 **Anggota Kelompok :**
 
-1. Hanif Zufar Rafif       (1806200412)
-2. Helmi Arrazy (Ketua)    (1806200141)
+1. Helmi Arrazy (Ketua)    (1806200141)
+2. Hanif Zufar Rafif       (1806200412)
 3. Suryanoto Negoro        (1806200122)
 
 **Kolaborator/tim (ruki.hwyu@gmail.com DAN ruki.h@ui.ac.id)**
